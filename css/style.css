@@ -1,0 +1,52 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.container{
+	margin:0 auto;
+	width:90%;
+
+}
+.nav{
+	overflow: hidden;
+}
+
+
+.logo{
+	height: 90px;
+	width: 20%;
+	background:#636e72;
+	float: left;
+}
+.navigation{
+	height:90px;
+	width: 78%;
+	background:#636e72;
+	float:right;
+}
+.header{
+	height:100px;
+	background:#636e72;
+   margin:10px 0;
+}
+.intro{
+	height:80px;
+	background:#636e72;
+}
+.team{
+ display:flex;
+ justify-content: center;
+}
+.name{
+	height: 500px;
+	width: 28%;
+	background:#636e72;
+	margin: 10px;
+
+}
+.footer{
+	height:60px;
+	background:#636e72;
+
+
+}
